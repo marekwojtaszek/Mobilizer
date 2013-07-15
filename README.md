@@ -7,7 +7,7 @@ Mobilizer is an iOS Web App Template with basic configuration and required files
 * HTML 5 template
 * basic CSS styling
 * basic [Facebook Open Graph META Tags](https://developers.facebook.com/docs/opengraph/using-objects/)
-* custom `apple-touch-icon` for iPhone, iPod touch and iPad with both regular and Retina screen
+* custom icons and splash screens for iPhone, iPod touch and iPad with both regular and Retina screen
 * custom splash screen
 * iOS device detection
 * separate *"open on iPhone"*, *installation* and *app content* screens
